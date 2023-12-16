@@ -1,4 +1,3 @@
 Github
 history
-branches
 pull request
